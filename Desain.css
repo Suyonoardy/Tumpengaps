@@ -1,0 +1,29 @@
+ body {background-color: blue;}
+ 
+ .tumpeng {
+   width:100px;
+   height:100px;
+ }
+ marquee{background-color:green;}
+ marquee span {
+   display:inline-block;
+   padding-left:100%;
+   animation: jalan 10s linear infinite;
+ }
+ .tumpeng1 {
+   width:50%;
+   height:200px;
+   float:right;
+ }
+ .tumpeng2 {
+   float:left;
+   width:50%;
+   height:200px;
+   margin-right:5px;
+   
+ }
+ .tumpeng3 {
+   width:50%;
+   height:200px;
+   float:right;
+ }
